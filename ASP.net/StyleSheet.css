@@ -1,0 +1,35 @@
+﻿*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins' , sans-serif;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: url(http://localhost:60584/Project-1/top-view-business-office-desk-background-applying-job-form-pen-pencil-eyeglasses-tree-wooden-table-background-with-copy-space.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    color: white;
+}
+#Panel2
+{
+    background-color: rgba(0,0,0,0.7);
+    border-radius: 10px;
+}
+#Panel1
+{
+    background-color: rgba(0,0,0,0.7);
+    border-radius: 10px;
+}
+.auto-style76{
+    font-size:40px;
+    font-weight:600;
+    color:red;
+}
+.auto-style9{
+    font-size:40px;
+    font-weight:600;
+    color:red;
+}
